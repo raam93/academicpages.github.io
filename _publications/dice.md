@@ -6,7 +6,6 @@ excerpt: 'Post-hoc explanations of machine learning models are crucial for peopl
 date: 2020-01-26
 venue: 'Proceedings of the Conference on Fairness, Accountability, and Transparency.'
 paperurl: ''
-citation: '  '
 ---
 
 
