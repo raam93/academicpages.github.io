@@ -5,7 +5,7 @@ permalink: /publication/dice
 excerpt: 'Post-hoc explanations of machine learning models are crucial for people to understand and act on algorithmic predictions. An intriguing class of explanations is through counterfactuals, hypothetical examples that show people how to obtain a different prediction. We posit that effective counterfactual explanations should satisfy two properties: feasibility of the counterfactual actions given user context and constraints, and diversity among the counterfactuals presented. To this end, we propose a framework for generating and evaluating a diverse set of counterfactual explanations based on determinantal point processes.'
 date: 2020-01-26
 venue: 'Proceedings of the Conference on Fairness, Accountability, and Transparency.'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3351095.3372850'
+paperurl: ''
 citation: '  '
 ---
 
