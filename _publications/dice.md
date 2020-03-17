@@ -6,7 +6,7 @@ excerpt: 'Post-hoc explanations of machine learning models are crucial for peopl
 date: 2020-01-26
 venue: 'Proceedings of the Conference on Fairness, Accountability, and Transparency.'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3351095.3372850'
-citation: '<u>Ramaravind Kommiya Mothilal</u>, Amit Sharma, Chenhao Tan (2020). <b>Explaining Machine Learning Classifiers through Diverse Counterfactual Examples</b>. <i>In Proceedings of the Conference on Fairness, Accountability, and Transparency.</i>'
+citation: ''
 ---
 
 
