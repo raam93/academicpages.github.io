@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-* Anmol Panda, ++Ramaravind Kommiya Mothilal++, Monojit Choudhury, Kalika Bali, and Joyojeet Pal *(in press)*. "Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections." In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, pp. 267-271. 2019.
+* Anmol Panda, __Ramaravind Kommiya Mothilal__, Monojit Choudhury, Kalika Bali, and Joyojeet Pal *(in press)*. ["Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections."] In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, pp. 267-271. 2019.
 
-* Devansh Mehta, Sebastin Santy, __Ramaravind Kommiya Mothilal__, Brij Mohan Lal Srivastava, Alok Sharma, Anurag Shukla, Vishnu Prasad, Venkanna U, Amit Sharma, and Kalika Bali *(in press)*. "Learnings from Technological Interventions in a Low Resource Language: A Case-Study on Gondi." In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020). 2020.
+* Devansh Mehta, Sebastin Santy, __Ramaravind Kommiya Mothilal__, Brij Mohan Lal Srivastava, Alok Sharma, Anurag Shukla, Vishnu Prasad, Venkanna U, Amit Sharma, and Kalika Bali *(in press)*. ["Learnings from Technological Interventions in a Low Resource Language: A Case-Study on Gondi."] In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020). 2020.
 
-* Devansh Mehta, Alok Sharma, __Ramaravind Kommiya Mothilal__, Chiraag Chiraag, Anurag Shukla, Vishnu Prasad, William Thies, Venkanna U, 	Colin Scott, and Amit Sharma *(in press)*. "Facilitating Media Distribution with Monetary Incentives." In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020.
+* Devansh Mehta, Alok Sharma, __Ramaravind Kommiya Mothilal__, Chiraag Chiraag, Anurag Shukla, Vishnu Prasad, William Thies, Venkanna U, 	Colin Scott, and Amit Sharma *(in press)*. ["Facilitating Media Distribution with Monetary Incentives."] In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020.
 
-* __Ramaravind Kommiya Mothilal__, Amit Sharma, and Chenhao Tan. "Explaining machine learning classifiers through diverse counterfactual explanations." In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pp. 607-617. 2020.
+* __Ramaravind Kommiya Mothilal__, Amit Sharma, and Chenhao Tan. ["Explaining machine learning classifiers through diverse counterfactual explanations."](https://arxiv.org/pdf/1905.07697.pdf) In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, pp. 607-617. 2020.
 
 * Faisal Lalani, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal. "The Appeal of Influencers to the Social Media Outreach of Indian Politicians." In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, pp. 267-271. 2019.
 
