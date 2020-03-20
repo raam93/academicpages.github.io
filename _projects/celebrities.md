@@ -13,4 +13,4 @@ Democracies around the world have different levels of dependence on influencers 
 ## Publication:
 Faisal Lalani, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal. ["The Appeal of Influencers to the Social Media Outreach of Indian Politicians."](http://joyojeet.people.si.umich.edu/wp-content/uploads/2020/02/Appeal-of-Influencers.pdf) In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2019), pp. 267-271. 2019.
 
-[[poster]](https://github.com/raam93/raam93.github.io/tree/master/files/celeb-poster.pdf)
+[[poster]](https://raam93.github.io/files/celeb-poster.pdf)
