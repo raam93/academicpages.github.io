@@ -12,6 +12,6 @@ Post-hoc explanations of machine learning models are crucial for people to under
 
 [[code]](https://github.com/microsoft/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/) [[video]](https://www.youtube.com/watch?v=zj2NliGD0Lg)
 
-<img src='images/dice-example.png'>
+<img src='/images/dice-example.png'>
 
 
