@@ -1,6 +1,6 @@
 ---
-title: "project item number 1"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "Diverse Counterfactual Explanations (DiCE) for any machine learning model"
+excerpt: "*How to explain a machine learning model such that the explanation is truthful to the model and yet interpretable to people?*<br/><img src='/images/dice.gif'>"
 collection: projects
 ---
 
