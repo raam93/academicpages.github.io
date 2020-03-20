@@ -1,6 +1,6 @@
 ---
 title: "Predicting first-year engineering student success: from traditional statistics to machine learning"
-excerpt: "*Statistical modeling of students’ performance in an open-admission bachelor program in Flanders*<br/><img src='/images/rsz_topical-analysis.png'>" 
+excerpt: "*Statistical modeling of students’ performance in an open-admission bachelor program in Flanders*<br/><img src='/images/thesis-cover.png'>" 
 collection: projects
 ---
 
