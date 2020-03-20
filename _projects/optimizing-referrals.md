@@ -15,4 +15,4 @@ of people reached. Unlike a typical influence maximization problem, however, the
 ## Publication:
 __Ramaravind Kommiya Mothilal__, Amulya Yadav, and Amit Sharma. ["Optimizing peer referrals for public awareness using contextual bandits."](https://raam93.github.io/files/optimize-peer-referrals-compass.pdf) In Proceedings of the 2nd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2019), pp. 74-85. 2019.
 
-[[slides]](https://raam93.github.io/files/optimize-peer-referrals-slides) [[presentation]](https://www.youtube.com/watch?v=46gIqhB24KU&t=22289s)
+[[slides]](https://raam93.github.io/files/optimize-peer-referrals-slides.pptx) [[presentation]](https://www.youtube.com/watch?v=46gIqhB24KU&t=22289s)
