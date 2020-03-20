@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Anmol Panda, __Ramaravind Kommiya Mothilal__, Monojit Choudhury, Kalika Bali, and Joyojeet Pal *(in press)*. ["Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections."]() In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2020). 2019.
+* Anmol Panda, __Ramaravind Kommiya Mothilal__, Monojit Choudhury, Kalika Bali, and Joyojeet Pal *(in press)*. ["Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections."]() In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW 2020). 2020.
 
 * Devansh Mehta, Sebastin Santy, __Ramaravind Kommiya Mothilal__, Brij Mohan Lal Srivastava, Alok Sharma, Anurag Shukla, Vishnu Prasad, Venkanna U, Amit Sharma, and Kalika Bali *(in press)*. ["Learnings from Technological Interventions in a Low Resource Language: A Case-Study on Gondi."]() In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020). 2020.
 
