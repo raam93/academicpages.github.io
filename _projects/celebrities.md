@@ -1,6 +1,6 @@
 ---
 title: "The Appeal of Influencers to the Social Media Outreach of Indian Politicians"
-excerpt: "*What Twitter engagement between politicians and public figures mean in India's 2019 elections*<br/><img src='/images/bjp_mp_engagement_celebrity-small.png'>" 
+excerpt: "*What Twitter engagement between politicians and public figures mean in India's 2019 elections?*<br/><img src='/images/bjp_mp_engagement_celebrity-small.png'>" 
 collection: projects
 ---
 
