@@ -13,6 +13,6 @@ Post-hoc explanations of machine learning models are crucial for people to under
 ## Publication:
 * __Ramaravind Kommiya Mothilal__, Amit Sharma, and Chenhao Tan. ["Explaining machine learning classifiers through diverse counterfactual explanations."](https://arxiv.org/pdf/1905.07697.pdf) In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAccT 2020), pp. 607-617. 2020.
 
-[[code]](https://github.com/microsoft/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/) [[video]](https://www.youtube.com/watch?v=zj2NliGD0Lg)
+[[code]](https://github.com/microsoft/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/) [[video]](https://www.youtube.com/watch?v=zj2NliGD0Lg) [[slides]](https://github.com/raam93/raam93.github.io/tree/master/files/fat_present.pdf)
 
 
