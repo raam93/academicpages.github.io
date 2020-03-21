@@ -22,7 +22,7 @@ author_profile: true
 
 * Faisal Lalani, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal. ["The Appeal of Influencers to the Social Media Outreach of Indian Politicians."](http://joyojeet.people.si.umich.edu/wp-content/uploads/2020/02/Appeal-of-Influencers.pdf) In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2019), pp. 267-271. 2019.
 
-* __Ramaravind Kommiya Mothilal__, Devansh Mehta, Alok Sharma, William Thies, and Amit Sharma. ["Learnings from an ongoing deployment of an IVR-based platform for voter awareness."](https://raam93.github.io/files/learn2earn-deployement.pdf) In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2019), pp. 257-261. 2019. **(a non-archival version won *Outstanding Poster Award* at COMPASS 2019)**
+* __Ramaravind Kommiya Mothilal__, Devansh Mehta, Alok Sharma, William Thies, and Amit Sharma. ["Learnings from an ongoing deployment of an IVR-based platform for voter awareness."](https://raam93.github.io/files/learn2earn-deployement.pdf) In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2019), pp. 257-261. 2019. **(a non-archival version won [*Outstanding Poster Award*](https://raam93.github.io/images/best-poster.jpeg) at COMPASS 2019)**
 
 ## Referred Journal Publications
 
