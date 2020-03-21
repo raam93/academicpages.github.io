@@ -187,7 +187,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  extra:
+  extras:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -251,10 +251,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _extra
+  # _extras
   - scope:
       path: ""
-      type: extra
+      type: extras
     values:
       layout: single
       author_profile: true
