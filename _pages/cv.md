@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Not up to date)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
