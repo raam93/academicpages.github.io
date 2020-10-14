@@ -8,7 +8,17 @@ author_profile: true
 
 {% include base_path %}
 
+## In-Press Publications
+
+* Palashi Vaghela, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal *(in press)*. [“Birds Of A Caste - How Caste Hierarchies Manifest In Retweet Behavior Of Indian Politicians.”]() In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW 2020), 2020.
+
 ## Referred Conference Publications
+
+* Anmol Panda, __Ramaravind Kommiya Mothilal__, Monojit Choudhury, Kalika Bali, and Joyojeet Pal. ["Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections."](https://dl.acm.org/doi/abs/10.1145/3392860) In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW 2020). 2020.
+
+* Devansh Mehta, __Ramaravind Kommiya Mothilal__, Alok Sharma, William Thies, and Amit Sharma. ["Using Mobile Airtime Credits to Incentivize Learning, Sharing and Survey Response: Experiences from the Field."](https://dl.acm.org/doi/abs/10.1145/3378393.3402287) In Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies (COMPASS 2020), pp. 254-264. 2020.
+
+* Devansh Mehta, Sebastin Santy, __Ramaravind Kommiya Mothilal__, Brij Mohan Lal Srivastava, Alok Sharma, Anurag Shukla, Vishnu Prasad, Venkanna U, Amit Sharma, and Kalika Bali. ["Learnings from Technological Interventions in a Low Resource Language: A Case-Study on Gondi."](https://arxiv.org/pdf/2004.10270) In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020). 2020.
 
 * __Ramaravind Kommiya Mothilal__, Amit Sharma, and Chenhao Tan. ["Explaining machine learning classifiers through diverse counterfactual explanations."](https://arxiv.org/pdf/1905.07697.pdf) In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAccT 2020), pp. 607-617. 2020. [[code]](https://github.com/microsoft/DiCE)
 
@@ -20,6 +30,8 @@ author_profile: true
 
 ## Referred Posters and Extended Abstracts
 
+* Devansh Mehta, Alok Sharma, __Ramaravind Kommiya Mothilal__, Chiraag Chiraag, Anurag Shukla, Vishnu Prasad, William Thies, Venkanna U, 	Colin Scott, and Amit Sharma. ["Facilitating Media Distribution with Monetary Incentives."](https://dl.acm.org/doi/abs/10.1145/3334480.3383032) In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020.
+
 * Faisal Lalani, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal. ["The Appeal of Influencers to the Social Media Outreach of Indian Politicians."](http://joyojeet.people.si.umich.edu/wp-content/uploads/2020/02/Appeal-of-Influencers.pdf) In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2019), pp. 267-271. 2019.
 
 * __Ramaravind Kommiya Mothilal__, Devansh Mehta, Alok Sharma, William Thies, and Amit Sharma. ["Learnings from an ongoing deployment of an IVR-based platform for voter awareness."](https://raam93.github.io/files/learn2earn-deployement.pdf) In Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing (CSCW 2019), pp. 257-261. 2019. **(a non-archival version won [*Outstanding Poster Award*](https://raam93.github.io/images/best-poster.jpeg) at COMPASS 2019)**
@@ -28,10 +40,3 @@ author_profile: true
 
 * __Ramaravind Kommiya Mothilal__, T. R. Shravan, and S. N. Omkar. ["Scale adaptive object tracker with occlusion handling."](http://www.mecs-press.net/ijigsp/ijigsp-v8-n1/IJIGSP-V8-N1-3.pdf) International Journal of Image, Graphics and Signal Processing (IJIGSP) 8, no. 1 (2016): 27.
 
-## In-Press Publications
-
-* Anmol Panda, __Ramaravind Kommiya Mothilal__, Monojit Choudhury, Kalika Bali, and Joyojeet Pal *(in press)*. ["Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections."]() In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW 2020). 2020.
-
-* Devansh Mehta, Sebastin Santy, __Ramaravind Kommiya Mothilal__, Brij Mohan Lal Srivastava, Alok Sharma, Anurag Shukla, Vishnu Prasad, Venkanna U, Amit Sharma, and Kalika Bali *(in press)*. ["Learnings from Technological Interventions in a Low Resource Language: A Case-Study on Gondi."]() In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020). 2020.
-
-* Devansh Mehta, Alok Sharma, __Ramaravind Kommiya Mothilal__, Chiraag Chiraag, Anurag Shukla, Vishnu Prasad, William Thies, Venkanna U, 	Colin Scott, and Amit Sharma *(in press)*. ["Facilitating Media Distribution with Monetary Incentives."]() In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems. 2020.
