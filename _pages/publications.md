@@ -8,11 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-## In-Press Publications
-
-* Palashi Vaghela, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal *(in press)*. [“Birds Of A Caste - How Caste Hierarchies Manifest In Retweet Behavior Of Indian Politicians.”]() In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW 2020), 2020.
-
 ## Referred Conference Publications
+
+* __Ramaravind Kommiya Mothilal__, Divyat Mahajan, Chenhao Tan, and Amit Sharma. ["Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End."](https://arxiv.org/abs/2011.04917) In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21), 2021.
+
+* Palashi Vaghela, __Ramaravind Kommiya Mothilal__, and Joyojeet Pal. [“Birds Of A Caste - How Caste Hierarchies Manifest In Retweet Behavior Of Indian Politicians.”](https://dl.acm.org/doi/abs/10.1145/3432911) In Conference Companion Publication of the 2021 on Computer Supported Cooperative Work and Social Computing (CSCW 2021), 2021.
 
 * Anmol Panda, __Ramaravind Kommiya Mothilal__, Monojit Choudhury, Kalika Bali, and Joyojeet Pal. ["Topical focus of political campaigns and its impact: Findings from politicians’ hashtag usage during the 2019 Indian elections."](https://dl.acm.org/doi/abs/10.1145/3392860) In Conference Companion Publication of the 2020 on Computer Supported Cooperative Work and Social Computing (CSCW 2020). 2020.
 
