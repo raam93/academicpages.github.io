@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Please see [Google Scholar](https://scholar.google.com/citations?user=j1NUcnMAAAAJ&hl=en) for an updated list. Thanks!**
+
 ## Referred Conference Publications
 
 * __Ramaravind Kommiya Mothilal__, Divyat Mahajan, Chenhao Tan, and Amit Sharma. ["Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End."](https://arxiv.org/abs/2011.04917) In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21), 2021.
