@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a self-motivated learner who loves to engage at the intersection of computational and social sciences. I'm primarily interested in studying [fairness in socio-technical systems](http://sorelle.friedler.net/papers/sts_fat2019.pdf) and in building rigorous foundations for the design of end-to-end fair ML systems, from data collection to deployment. 
+Hello! I'm a self-motivated learner who loves to engage at the intersection of computational and social sciences. I'm broadly interested in the area of [fairness in sociotechnical systems](http://sorelle.friedler.net/papers/sts_fat2019.pdf) and developing technologies to help these systems produce beneficial outcomes to society. In this regard, two potential fields of inquiry I'm interested in are machine learning and social networks.
+<!---I'm primarily interested in studying [fairness in socio-technical systems](http://sorelle.friedler.net/papers/sts_fat2019.pdf) and in building rigorous foundations for the design of end-to-end fair ML systems, from data collection to deployment.--->
  
 I currently work as a Data Scientist at [Everwell Health Solutions](https://www.everwell.org/). Previously, I was a pre-doctoral [AI Center](https://www.microsoft.com/en-us/research/group/scai/) Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) where I worked with [Amit Sharma](http://www.amitsharma.in/) and [Joyojeet Pal](http://joyojeet.people.si.umich.edu/) 
 
