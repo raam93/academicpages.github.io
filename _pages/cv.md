@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://raam93.github.io/files/CV_Ramaravind.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://raam93.github.io/files/cv_current_ram.pdf" type="application/pdf" width="600px" height="500px" />
